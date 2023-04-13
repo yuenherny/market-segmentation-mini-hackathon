@@ -22,4 +22,4 @@ You are required to use Machine Learning models to predict the right segments of
 ## Leaderboard Result
 See full leaderboard at [Kaggle](https://www.kaggle.com/competitions/malaysia-study-jam-mini-hackathon/leaderboard?).
 
-![leaderboard](assets/hackathon_leaderboard.png.png)
+![leaderboard](assets/hackathon_leaderboard.png)
